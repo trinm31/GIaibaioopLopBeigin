@@ -1,0 +1,13 @@
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/bin/Debug/netcoreapp3.1/OOPHomeworkLopBegin.deps.json
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/bin/Debug/netcoreapp3.1/OOPHomeworkLopBegin.runtimeconfig.json
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/bin/Debug/netcoreapp3.1/OOPHomeworkLopBegin.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/bin/Debug/netcoreapp3.1/OOPHomeworkLopBegin.dll
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/bin/Debug/netcoreapp3.1/OOPHomeworkLopBegin.pdb
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.dll
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.pdb
+/Users/tringuyen/RiderProjects/OOPHomeworkLopBegin/OOPHomeworkLopBegin/obj/Debug/netcoreapp3.1/OOPHomeworkLopBegin.genruntimeconfig.cache
